@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "层次遍历二叉树", "层次遍历二叉树\层次遍历二叉树.vcxproj", "{E263D96D-CBC3-4100-B4F6-C9FA09B4D4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E263D96D-CBC3-4100-B4F6-C9FA09B4D4A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E263D96D-CBC3-4100-B4F6-C9FA09B4D4A1}.Debug|Win32.Build.0 = Debug|Win32
+		{E263D96D-CBC3-4100-B4F6-C9FA09B4D4A1}.Release|Win32.ActiveCfg = Release|Win32
+		{E263D96D-CBC3-4100-B4F6-C9FA09B4D4A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿生成启动时间为 2023/10/6 21:21:42。
+     1>项目“D:\C文件夹\树与二叉树\层次遍历二叉树\层次遍历二叉树\层次遍历二叉树.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\层次遍历二叉树.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "层次遍历.c"
+         层次遍历.c
+     1>d:\c文件夹\树与二叉树\层次遍历二叉树\层次遍历二叉树\层次遍历.c(4): warning C4005: “NULL”: 宏重定义
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(122) : 参见“NULL”的前一个定义
+     1>d:\c文件夹\树与二叉树\层次遍历二叉树\层次遍历二叉树\层次遍历.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\层次遍历二叉树.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.lib" /MACHINE:X86 "Debug\层次遍历.obj"
+         LINK : 没有找到 D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.exe 或上一个增量链接没有生成它；正在执行完全链接
+         层次遍历二叉树.vcxproj -> D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\C文件夹\树与二叉树\层次遍历二叉树\Debug\层次遍历二叉树.exe;#1" /manifest "Debug\层次遍历二叉树.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\层次遍历二叉树.unsuccessfulbuild”。
+         正在对“Debug\层次遍历二叉树.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C文件夹\树与二叉树\层次遍历二叉树\层次遍历二叉树\层次遍历二叉树.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.76
